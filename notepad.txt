@@ -1,0 +1,12 @@
+notes 
+
+classes
+
+game class
+- board (2d array)
+- win status (won/not won)
+- runs game
+
+player class (parent class)
+- move
+- 
